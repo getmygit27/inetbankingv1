@@ -1,1 +1,3 @@
 this file we need to pull
+we got the file
+now to make changes on the pulled file we will write commands.
